@@ -9,6 +9,7 @@ public class Main {
         medium.Multiplication(5, 2.5);
         medium.Multiplication(2, 5, 2 );
         //Hard
-
+        Hard hard = new Hard();
+        hard.RandomNum(0);
     }
 }
