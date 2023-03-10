@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Easy {
     public void SumRes(){
         Scanner in = new Scanner(System.in);
-        System.out.print("Введите первое число: ");
+        System.out.print("Введите первое число:");
         int firstNum = in.nextInt();
         System.out.print("Введите второе число: ");
         int secondNum = in.nextInt();
